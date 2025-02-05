@@ -1,0 +1,1 @@
+This is a practice file for Django Installation, starting pa project, and building an application.
